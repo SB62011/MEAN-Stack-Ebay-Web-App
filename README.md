@@ -1,6 +1,6 @@
 # MEAN-Stack-Ebay-Web-App
 
-You can test the app out at: <a>https://grimsdottir28469-1698350087958.uw.r.appspot.com/</a>
+
 
 <i><b>Interested employers may directly contact me for access to the private repository holding all the code to the web app.</b></i>
 
